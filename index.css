@@ -1,6 +1,9 @@
 body{
     padding: 10px;
     background-color: azure;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 400px;
+    margin: 100px;
 }
 #kepem{
 width: 300px;
