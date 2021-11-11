@@ -3,6 +3,9 @@ body{
     background-color: azure;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     margin: 100px;
+    background-image: url(hand-painted-watercolor-background-with-sky-clouds-shape_24972-1095.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 #kepem{
 width: 300px;
