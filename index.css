@@ -8,10 +8,19 @@ body{
     background-size: cover;
 }
 #kepem{
-width: 300px;
-height: 400px;
-margin: auto;
+    width: 333px;
+    margin-left: 25px;
+    margin-bottom: 25px;
+    border-radius: 20px;
+    box-shadow: 10px 10px 5px #888888;
+    -ms-transform: rotate(3deg); /* IE 9 */
+    -webkit-transform: rotate(3deg); /* Chrome, Safari, Opera */
+    transform: rotate(3deg);
+    float: right;
 }
 p{
     text-align: justify;
 }
+ #link{
+     text-align: center;
+ }
