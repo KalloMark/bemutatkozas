@@ -31,4 +31,6 @@ p{
 .keret{
     border: solid;
     border-color: black;
+#kozep{
+    text-align: center;
 }
