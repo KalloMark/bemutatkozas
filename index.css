@@ -28,3 +28,7 @@ p{
 #szoveg{
     font-size: 25px;
 }
+.keret{
+    border: solid;
+    border-color: black;
+}
